@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @RamazanrP
 - 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning Python and Linux
+- 🌱 I’m currently learning C and Linux
 - 💞️ I’m looking to collaborate on government
-- 📫 How to reach me ramazanpc23@gmail.com
+- 📫 How to reach me ...
 - 😄 Pronouns: He
 - ⚡ Fun fact: ...
 
