@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cyber Security
 - 🌱 I’m currently learning C and Linux
 - 💞️ I’m looking to collaborate on government
-- 📫 How to reach me ...
+- 📫 How to reach me 546692335 (LinkedIn URL)
 - 😄 Pronouns: He
 - ⚡ Fun fact: ...
 
