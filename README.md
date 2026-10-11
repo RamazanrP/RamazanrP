@@ -1,7 +1,7 @@
 -  Greetings, I’m Ramazan
 -  Interested in Cyber Security
 -  Learning C and Linux (Hopefully **RE**)
--  LeetCode and pwn.college in free time
+-  LeetCode, crackmes.one and pwn.college in free time
 -  How to reach me: `546692335`
 
 <!---
